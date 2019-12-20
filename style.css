@@ -1,0 +1,41 @@
+a {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 13px;
+    padding-top: 400px;
+    padding-left: 15px;
+    opacity: 0.75;
+}
+#signin {
+    border-style: solid;
+    border-top-width: 5px;
+    border-left-width: 3px;
+    border-right-width: 3px;
+    border-color: rgb(89, 165, 228);
+    background-color: rgb(89, 165, 228);
+    color: white;
+    padding-left: 0px;
+}
+
+input {
+    width: 14cm;
+    height: 1cm;
+}
+#b1 {
+    width: 5cm;
+    height: 1cm;
+}
+#b2 {
+    width: 5cm;
+    height: 1cm;
+    margin-bottom: 12cm;
+}
+#bot {
+    color: grey;
+    background-color: rgb(201, 190, 190);
+    border-right-width: 5cm;
+    border-right-color: rgb(201, 190, 190) ;
+}
+
+body {
+    padding-top: 0.5cm;
+}
